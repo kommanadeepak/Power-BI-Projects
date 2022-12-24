@@ -1,4 +1,4 @@
-# Power-BI-Projects
+# Sales Dashoard
 I have downloaded the sample super store data from online.
 You can get that data at in my Power-BI-Projects repository.
 I have imported that data on to the Power BI desktop, before loading that data I have trnsformed the data according to my requirement.
